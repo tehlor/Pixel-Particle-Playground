@@ -1,0 +1,14 @@
+body {
+    background-color: #d8d8d8;
+}
+
+.heading {
+    width: 100%;
+    text-align: center;
+}
+
+a {
+    font-family: 'Raleway', sans-serif;
+    text-emphasis: none;
+    text-decoration: none;
+}
