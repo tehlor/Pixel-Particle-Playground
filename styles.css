@@ -8,6 +8,7 @@ body {
 }
 
 a {
+    font-size: 2em;
     font-family: 'Raleway', sans-serif;
     text-emphasis: none;
     text-decoration: none;
